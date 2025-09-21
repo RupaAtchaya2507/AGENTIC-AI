@@ -1,8 +1,8 @@
-🛡️ # Agentic AI for Autonomous Bug Bounties
+# 🛡️ Agentic AI for Autonomous Bug Bounties
 
 An AI-powered vulnerability scanner that combines OWASP ZAP, a Flask backend, a React frontend, and Google Gemini (Gemini/Generative API) to automate bug-bounty style scans, AI analysis, and PDF reporting. This repo was developed and tested using OWASP Juice Shop (vulnerable target) running in Docker.
 
-🚀 ## Highlights
+## 🚀 Highlights
 
 * Runs OWASP ZAP for automated scanning 
 * Uses an AI model (Google Gemini) to summarize & prioritize findings
@@ -10,14 +10,14 @@ An AI-powered vulnerability scanner that combines OWASP ZAP, a Flask backend, a 
 * Auto-generated PDF report (downloadable) with summary and remediation suggestions
 * Example vulnerable target: OWASP Juice Shop (runs in Docker)
 
-🔧 ## Prerequisites
+## 🔧 Prerequisites
 
 * Docker (for ZAP and Juice Shop)
 * Python 3.8+ (for the Flask backend)
 * Node.js 18+ (for the React frontend)
 * Google API key for Gemini (set as GOOGLE_API_KEY)
 
-▶️ ## Steps to Run the Project
+## ▶️ Steps to Run the Project
 
 ### 1. Start the vulnerable target — OWASP Juice Shop
 
