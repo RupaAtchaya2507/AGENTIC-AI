@@ -73,32 +73,43 @@ An AI-powered vulnerability scanner that combines OWASP ZAP, a Flask backend, a 
 
 ### 5. Use the Application
 
-    1) Open http://localhost:3000 in your browser (the React UI).
-    
-    2) Enter a URL to scan (e.g., http://localhost:3000 → Juice Shop).
-    
-    3) Select scan level:
-    
-        Level 1 → Basic (Spider)
-        
-        Level 2 → Spider + Active Scan
-        
-        Level 3 → Firewall/headers checks too
-    
-    4) Click Start Scan 🚀
-    
-    5) View results in dashboard:
-    
-        Severity heatmap
-        
-        Vulnerability details
-        
-        AI-powered summary
-        
-        Chat with AI assistant
-    
-    6) Click Download PDF Report to save a detailed scan report.
-      
+   1) Open http://localhost:3000 in your browser (the React UI).
+   
+   2) Enter a URL to scan (e.g., http://localhost:3000 → Juice Shop).
+   
+   3) Select scan level:
+   
+       Level 1 → Basic (Spider)
+       
+       Level 2 → Spider + Active Scan
+       
+       Level 3 → Firewall/headers checks too
+   
+   4) Click Start Scan 🚀
+   
+   5) View results in dashboard:
+   
+       Severity heatmap
+       
+       Vulnerability details
+       
+       AI-powered summary
+       
+       Chat with AI assistant
+   
+   6) Click Download PDF Report to save a detailed scan report.
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF7F2A?logo=owasp&logoColor=white) 
+![OWASP Juice Shop](https://img.shields.io/badge/OWASP_Juice_Shop-FF5733?logo=owasp&logoColor=white) 
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+     
 
 
 
