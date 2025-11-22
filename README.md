@@ -2,6 +2,9 @@
 
 An AI-powered vulnerability scanner that combines OWASP ZAP, a Flask backend, a React frontend, and Google Gemini (Gemini/Generative API) to automate bug-bounty style scans, AI analysis, and PDF reporting. This repo was developed and tested using OWASP Juice Shop (vulnerable target) running in Docker.
 
+<img width="1911" height="1008" alt="image" src="https://github.com/user-attachments/assets/4d88e253-f65a-4bf3-b2cc-00fe49933c7e" />
+
+
 ## 🚀 Highlights
 
   * Runs OWASP ZAP for automated scanning 
