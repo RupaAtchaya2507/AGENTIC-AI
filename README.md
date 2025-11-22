@@ -4,6 +4,7 @@ An AI-powered vulnerability scanner that combines OWASP ZAP, a Flask backend, a 
 
 <img width="1911" height="1008" alt="image" src="https://github.com/user-attachments/assets/4d88e253-f65a-4bf3-b2cc-00fe49933c7e" />
 
+##  DEMO
 
 ## 🚀 Highlights
 
